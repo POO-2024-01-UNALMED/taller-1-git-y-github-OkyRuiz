@@ -1,0 +1,3 @@
+Al momento de subir el archivo datos.txt, donde se encuentra mi nombre completo (Oky Ruiz De La Rosa) 
+me sale un error.
+También no me deja hacer un commit de una carpeta vacía.
