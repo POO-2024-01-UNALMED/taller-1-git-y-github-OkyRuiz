@@ -1,0 +1,4 @@
+Nombre: Oky Ruiz De La Rosa
+Edad: 17 años
+Aspiraciones: Adquirir conocimientos para el uso de los conceptos de la programación orientada a objetos
+y así seguir adentrandome en el mundo de la programación.
