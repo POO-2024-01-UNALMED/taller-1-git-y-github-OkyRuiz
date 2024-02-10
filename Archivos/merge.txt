@@ -2,3 +2,6 @@ Nombre: Oky Ruiz De La Rosa
 Edad: 17 años
 Aspiraciones: Adquirir conocimientos para el uso de los conceptos de la programación orientada a objetos
 y así seguir adentrandome en el mundo de la programación.
+
+El error presentado al intentar subir el archivo marge.txt sucedió porque dos archivos con el mismo nombre 
+entran en conflicto ya que se podría modificar el contenido y borrar todo el trabajo anterior hecho.
